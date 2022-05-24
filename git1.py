@@ -3,4 +3,4 @@ print('ciao')
 print('mariam')
 print('gottih')
 
-print('ciao')
+print('ciao mariam gottih')

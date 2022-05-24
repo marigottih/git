@@ -4,4 +4,3 @@ print('mariam')
 print('gottih')
 
 print('1')
-print('2')
